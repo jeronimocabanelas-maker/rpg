@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\missaorpg\bin\Debug\net6.0\missaorpg.exe
+C:\Users\ALUNO\Desktop\missaorpg\bin\Debug\net6.0\missaorpg.deps.json
+C:\Users\ALUNO\Desktop\missaorpg\bin\Debug\net6.0\missaorpg.runtimeconfig.json
+C:\Users\ALUNO\Desktop\missaorpg\bin\Debug\net6.0\missaorpg.dll
+C:\Users\ALUNO\Desktop\missaorpg\bin\Debug\net6.0\missaorpg.pdb
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.dll
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\refint\missaorpg.dll
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.pdb
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\missaorpg.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\missaorpg\obj\Debug\net6.0\ref\missaorpg.dll
